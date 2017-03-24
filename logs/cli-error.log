@@ -1,0 +1,24 @@
+2017-03-09 13:05:19 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Table" could not be found.
+Exception Attributes: array (
+  'class' => 'Table',
+)
+Stack Trace:
+#0 C:\xampp\htdocs\ec\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(223): Cake\Console\ShellDispatcher->findShell('Table')
+#1 C:\xampp\htdocs\ec\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 C:\xampp\htdocs\ec\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 C:\xampp\htdocs\ec\bin\cake.php(34): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2017-03-09 13:05:52 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Ta" could not be found.
+Exception Attributes: array (
+  'class' => 'Ta',
+)
+Stack Trace:
+#0 C:\xampp\htdocs\ec\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(223): Cake\Console\ShellDispatcher->findShell('Ta')
+#1 C:\xampp\htdocs\ec\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 C:\xampp\htdocs\ec\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 C:\xampp\htdocs\ec\bin\cake.php(34): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+

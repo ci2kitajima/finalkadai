@@ -1,0 +1,15 @@
+.body {
+    width: 1300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.area-line {
+    border-bottom: 3px solid #000000;
+}
+
+.form--item {
+    margin: 20px;
+}
